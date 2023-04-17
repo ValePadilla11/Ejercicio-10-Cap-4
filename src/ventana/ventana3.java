@@ -4,10 +4,6 @@
  */
 package ventana;
 
-/**
- *
- * @author Laura
- */
 public class ventana3 extends javax.swing.JFrame {
 
     /**
